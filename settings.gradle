@@ -1,0 +1,2 @@
+rootProject.name='RecyclerViewTestWithArchitectureMVVM'
+include ':app'
